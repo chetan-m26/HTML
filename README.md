@@ -1,2 +1,2 @@
  # HTML  # CSS 
-Amazon clone front page using HTML & CSS 
+Amazon front page clone.
